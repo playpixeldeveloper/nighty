@@ -1,0 +1,17 @@
+{
+  "tokens": {
+    "main_token": "token",
+    "alt_tokens": [
+      ""
+    ]
+  },
+  "webhook": {
+    "ping_on_redeem": true,
+    "url": ""
+  },
+  "notifications": {
+    "ignore-self": false,
+    "toast-notifications": true,
+    "sound-notifications": true
+  }
+}
